@@ -1,2 +1,1 @@
-# hellow
-Just so so
+JavaSE实例练习
